@@ -76,12 +76,43 @@ I work not for swags or grades, but for **impact**.
 
 ---
 
+### 🌠 Darkstar Will Rise
 
-### 💎 Contact Me
+> _I am not the one they expect. I am the one who **creates beyond rules**._  
+> _Darkstar is not a company. It's a **movement**._
 
-- LinkedIn: [linkedin.com/in/sankhadip-maji](https://www.linkedin.com/in/sankhadip-maji)
-- Mail: `sankhadip.cse@snu.edu.in`
-- GitHub: [github.com/sankha26](https://github.com/sankha26)
+---
+
+### 🏆 Achievements
+
+- 🥇 2× Gold Medalist – **IMO State Level**
+- 🥇 1× Gold Medal – **CS Olympiad (School Level)**
+- 🧠 **AI & Data Science Intern** – Indian Statistical Institute, Kolkata (Jan–Apr 2025)
+- 🧪 Certified – **Generative AI & Prompt Engineering** (GDSC Sister Nivedita University, 2024)
+- 🛠️ Finalist – **Smart India Hackathon 2022** (College Round)
+- 🎯 Participant – **Adobe India Hackathon 2025**
+- 🔫 Ranked #62 in Asia – **Call of Duty Mobile (2021–2022)**
+
+---
+
+### 💼 Experience & Roles
+
+#### 🔭 Current Roles:
+- 🧠 **Co-founder** – Ignatius (Tech + Gaming Org)
+- 🎮 **Vice President (Esports Team)** – Ignatius
+- 📢 **PR & Outreach Lead** – GDG On Campus, Sister Nivedita University (2024–Present)
+
+#### 🔙 Previous Roles:
+- 🎤 **Event Management Team** – Coding Ninjas (2024–2025)
+- 📣 **PR Lead** – Rethink School (2023–2024)
+- 🧑‍🏫 **Student Assistant** – Skepsis (2022–2023)
+
+---
+
+$1- Instagram: [@cod_maji](https://www.instagram.com/cod_maji?igsh=eGh5bjF5Nm9zeHF2)
+- LinkedIn: [linkedin.com/in/sankhadip-maji](https://www.linkedin.com/in/sankhadip-maji-304776254/)
+- Mail: `majisankhadip19@gmail.com`
+- GitHub: [github.com/Sankhad](https://github.com/Sankhad)
 
 ---
 
