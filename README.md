@@ -6,6 +6,17 @@
 
 <p align="center">
   <i>"Born from the dark, destined to rise like a star."</i>
+  <br/><br/>
+  <strong>शिवो भूतेश्वरः साक्षात्कालः कालस्य चाप्यहम्।</strong><br/>
+  <em>"Shiva is the Lord of all beings, truly Time itself — and I am the time beyond time."</em>
+</p>
+
+<p align="center">
+  <strong>रोशनी श्लोका:</strong><br/>
+  <strong>असतो मा सद्गमय ।<br/>
+  तमसो मा ज्योतिर्गमय ।<br/>
+  मृत्योर्मा अमृतं गमय ॥</strong><br/>
+  <em>From untruth, lead me to truth. From darkness, lead me to light. From death, lead me to immortality.</em>
 </p>
 
 ---
