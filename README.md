@@ -76,12 +76,6 @@ I work not for swags or grades, but for **impact**.
 
 ---
 
-### 🌠 Darkstar Will Rise
-
-> _I am not the one they expect. I am the one who **creates beyond rules**._  
-> _Darkstar is not a company. It's a **movement**._
-
----
 
 ### 💎 Contact Me
 
