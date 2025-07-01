@@ -104,10 +104,10 @@ I work not for swags or grades, but for **impact**.
 ### 💼 Experience & Roles
 
 #### 🔭 Current Roles:
-- 🧠 **Co-founder** – Ignatius (Tech + Gaming Org)
+- 🧠 **Co-founder** – Ignatius (Game Developement + Esports Org)
 - 🎮 **Vice President (Esports Team)** – Ignatius
 - 📢 **PR & Outreach Lead** – GDG On Campus, Sister Nivedita University (2024–Present)
-
+-    **HR intern** - Indian Institue of Training, Kolkata (2025-Present)
 #### 🔙 Previous Roles:
 - 🎤 **Event Management Team** – Coding Ninjas (2024–2025)
 - 📣 **PR Lead** – Rethink School (2023–2024)
