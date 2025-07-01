@@ -109,12 +109,6 @@ I work not for swags or grades, but for **impact**.
 
 ---
 
-$1- Instagram: [@cod_maji](https://www.instagram.com/cod_maji?igsh=eGh5bjF5Nm9zeHF2)
-- LinkedIn: [linkedin.com/in/sankhadip-maji](https://www.linkedin.com/in/sankhadip-maji-304776254/)
-- Mail: `majisankhadip19@gmail.com`
-- GitHub: [github.com/Sankhad](https://github.com/Sankhad)
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sankhadip-maji-304776254/" target="_blank">
