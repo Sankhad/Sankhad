@@ -69,9 +69,15 @@ I work not for swags or grades, but for **impact**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/Sankhad&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sankhad&show_icons=true&theme=radical"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankha26&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankhad&theme=dark"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankhad&layout=compact&theme=radical"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sankhad&theme=radical&margin-w=15&no-frame=true"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankhad&theme=react-dark&bg_color=0d1117&hide_border=true"/>
 </p>
 
 ---
@@ -109,6 +115,12 @@ I work not for swags or grades, but for **impact**.
 
 ---
 
+$1- Instagram: [@cod_maji](https://www.instagram.com/cod_maji?igsh=eGh5bjF5Nm9zeHF2)
+- LinkedIn: [linkedin.com/in/sankhadip-maji](https://www.linkedin.com/in/sankhadip-maji-304776254/)
+- Mail: `majisankhadip19@gmail.com`
+- GitHub: [github.com/Sankhad](https://github.com/Sankhad)
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sankhadip-maji-304776254/" target="_blank">
