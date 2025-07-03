@@ -1,6 +1,8 @@
 <h1 align="center">✨ Welcome to Darkstar — A Cosmic Vision</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Sankhad/Darkstar-assets/main/logo-darkstar-transparent.png" width="140" alt="Darkstar Logo"/>
+  <br/><br/>
   <img src="https://readme-typing-svg.demolab.com/?lines=Booting%20Darkstar...;Code%20Beyond%20Light%20and%20Shadow...;Fuelled%20by%20Purpose%2C%20not%20Privilege...&center=true&width=430&height=45&color=8f00ff&vCenter=true&size=22&pause=1000" alt="Typing SVG"/>
 </p>
 
