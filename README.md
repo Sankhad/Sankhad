@@ -19,9 +19,6 @@
 - 🪐 Founder of the **Darkstar** movement — where light is born from shadows.
 - 🔥 I believe **true power** doesn't come from privilege, but from **pain turned into purpose**.
 
-> **Sankha** = Sacred conch, used in ancient wars  
-> **Dip** = Eternal flame  
-> ✨ Together: **Darkstar** — A warrior spark from the void.
 
 ---
 
