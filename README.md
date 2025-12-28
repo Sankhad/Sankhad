@@ -85,7 +85,7 @@
 - 🧠 **Co-founder** – Ignatius (Game Development + Esports)
 - 🎮 **Vice President (Esports Team)** – Ignatius
 - 📣 **PR & Outreach Lead** – GDG On Campus, Sister Nivedita University (2024–Present)
-- 🧾 **HR Intern** – Indian Institute of Internship (2025–Present)
+- **Data Science Intern** - Indian Statistical Institue, Kolkata (Jan 2025 - April 2025)
 
 ### ⏳ Past Roles:
 - 🎤 **Event Team** – Coding Ninjas (2024–2025)
