@@ -56,14 +56,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sankhad&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sankhad&show_icons=true&theme=radical&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankhad&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=Sankhad&theme=dark&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankhad&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankhad&layout=compact&theme=radical&cache_seconds=1800" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sankhad&theme=radical&margin-w=15&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sankhad&theme=radical&margin-w=15&no-frame=true&cache_seconds=1800" />
 </p>
+
 
 ---
 
